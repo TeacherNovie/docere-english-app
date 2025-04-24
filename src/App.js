@@ -1,8 +1,9 @@
 import React from 'react';
+import './App.css';  // Styles for the App component
 
 function App() {
   return (
-    <div style={{ padding: '2rem', fontFamily: 'Arial, sans-serif' }}>
+    <div className="app-container">
       <h1>Welcome to Docere English Online</h1>
       <p>We offer English and Science classes online!</p>
       <h2>Book a Lesson</h2>

@@ -1,0 +1,12 @@
+/* App-specific styles */
+.app-container {
+  text-align: center;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+iframe {
+  margin-top: 20px;
+}
